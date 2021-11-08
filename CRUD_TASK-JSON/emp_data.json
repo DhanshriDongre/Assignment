@@ -1,0 +1,34 @@
+{
+  "emps": [
+    {
+      "empno": 11,
+      "ename": "Sita",
+      "job": "Analyst",
+      "salary": "6000"
+    },
+    {
+      "empno": 12,
+      "ename": "Sham",
+      "job": "Accountant",
+      "salary": "7000"
+    },
+    {
+      "empno": 13,
+      "ename": "Geeta",
+      "job": "CAa",
+      "salary": "8000"
+    },
+    {
+      "empno": "3",
+      "ename": "wew",
+      "job": "dd",
+      "salary": "4334"
+    },
+    {
+      "empno": "343",
+      "ename": "dssf",
+      "job": "sfsf",
+      "salary": "343434"
+    }
+  ]
+}
